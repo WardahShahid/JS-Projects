@@ -1,1 +1,2 @@
-# JS-Projects
+# JS-Project
+Simple Calculator
